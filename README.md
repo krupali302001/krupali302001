@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krupali Patel</h1>
+<h1 align="center">Hello, I'm Krupali Patel</h1>
 <h3 align="center">Junior GRC Analyst | M.Sc. Information Security & Privacy</h3>
 <h4 align="center">ISC2 CC · ISO 27001 · NIST CSF · GDPR · Splunk</h4>
 
@@ -21,7 +21,7 @@
 - 📋 Passionate about **GRC** — policy writing, compliance documentation, risk management, and privacy frameworks
 - 🔍 Experienced in **vendor risk assessment**, **vulnerability analysis** (Nessus, OpenVAS), and **audit preparation**
 - 🌍 Open to **Junior GRC / Compliance Analyst** roles in **Canada** and **Europe**
-- 📫 Reach me at **krupalikanubhai.pate@ucalgary.ca**
+- 📫 Reach me at **krupalip008@gmail.com**
 
 ---
 
